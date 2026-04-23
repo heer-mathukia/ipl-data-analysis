@@ -15,12 +15,12 @@ Download it from Kaggle: https://www.kaggle.com/datasets/patrickb1912/ipl-comple
 Python, Pandas, NumPy, Matplotlib
 
 ## Key Findings
-Mumbai Indians lead all-time wins with 144, followed by CSK with 138 wins
-CSK has the highest win percentage among established teams at 58.2%
-V Kohli is the top run scorer with 8,014 runs at a strike rate of 128.5
-AD Russell has the highest strike rate among consistent batters at 164.2
-SP Narine is the most economical consistent bowler with 200 wickets at an economy of 6.76
-Toss decisions and batting order were also analysed across seasons
+Mumbai Indians lead all-time wins with 144, followed by CSK with 138 wins.
+CSK has the highest win percentage among established teams at 58.2%.
+V Kohli is the top run scorer with 8,014 runs at a strike rate of 128.5.
+AD Russell has the highest strike rate among consistent batters at 164.2.
+SP Narine is the most economical consistent bowler with 200 wickets at an economy of 6.76.
+Toss decisions and batting order were also analysed across seasons.
 
 ## Notebook
 IPL_Cricket Data Analysis.ipynb — complete analysis with charts and visualizations
