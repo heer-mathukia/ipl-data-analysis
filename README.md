@@ -8,6 +8,8 @@ and top bowlers by wickets and economy.
 ## Dataset
 matches.csv — 1,095 IPL matches with team, toss, winner, venue and result details
 deliveries.csv — 260,920 ball by ball deliveries with batter, bowler and run details
+Note: deliveries.csv exceeds GitHub's file size limit. 
+Download it from Kaggle: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib
